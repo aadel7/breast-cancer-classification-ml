@@ -47,3 +47,7 @@ Breast cancer is a major health concern worldwide, and early detection is key to
 
 ## Conclusion
 Both models performed exceptionally well, but Logistic Regression slightly outperformed with higher accuracy and better balance between precision and recall for both classes. The model's simplicity and performance make it the preferred choice for this classification task.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
